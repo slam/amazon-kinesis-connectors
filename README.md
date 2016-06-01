@@ -84,6 +84,9 @@ To run a sample, complete these steps:
 4. Within the sample folder, execute **ant run**.
 
 ## Release Notes
+### Release 1.2.2 (Jun 1, 2016)
++ Pass shard ID into the emit method of the IEmitter interface
+
 ### Release 1.2.1 (May 23, 2016)
 + Upgraded KCL to 1.6.3
 
